@@ -1,6 +1,8 @@
 # nvdla_notes
 It's a repository to record  my nvdla learning journey.  
 
+All the pdf files come from the [nvdla.org](http://nvdla.org/contents.html)  
+
 Document structure:  
 -NVDLA Primer: Introduction of NVDLA  
 -Open Source Roadmap: NVDLA's roadmap  
