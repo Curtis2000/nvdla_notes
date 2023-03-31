@@ -1,0 +1,8 @@
+20:18:50 **** Incremental Build of configuration Debug for project nvdla_sm_copy ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+make: Nothing to be done for 'main-build'.
+
+20:18:51 Build Finished (took 232ms)
+
